@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/left_frag"
+        android:icon="@drawable/baseline_arrow_circle_left_24"
+        android:title="Left" />
+    <item
+        android:id="@+id/center_frag"
+        android:icon="@drawable/baseline_home_24"
+        android:title="Center" />
+    <item
+        android:id="@+id/right_frag"
+        android:icon="@drawable/baseline_arrow_circle_right_24"
+        android:title="Right" />
+</menu>
